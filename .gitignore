@@ -1,0 +1,7 @@
+.vscode
+*.pyc
+*~
+__pycache__
+Simulator/__pycache__
+Simulator v2/__pycache__
+.idea
